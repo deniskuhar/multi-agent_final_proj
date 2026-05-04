@@ -1,0 +1,192 @@
+[
+  {
+    "filename": "iea_global_ev_outlook_2025_overview",
+    "source_url": "https://www.iea.org/reports/global-ev-outlook-2025",
+    "category": "articles",
+    "status": "saved_text",
+    "saved_path": "data\\raw_docs\\articles\\iea_global_ev_outlook_2025_overview.md",
+    "final_url": "https://www.iea.org/reports/global-ev-outlook-2025",
+    "content_type": "text/html; charset=utf-8",
+    "error": null
+  },
+  {
+    "filename": "iea_global_ev_outlook_2025_executive_summary",
+    "source_url": "https://www.iea.org/reports/global-ev-outlook-2025/executive-summary",
+    "category": "articles",
+    "status": "saved_text",
+    "saved_path": "data\\raw_docs\\articles\\iea_global_ev_outlook_2025_executive_summary.md",
+    "final_url": "https://www.iea.org/reports/global-ev-outlook-2025/executive-summary",
+    "content_type": "text/html; charset=utf-8",
+    "error": null
+  },
+  {
+    "filename": "iea_trends_in_electric_car_markets_2025",
+    "source_url": "https://www.iea.org/reports/global-ev-outlook-2025/trends-in-electric-car-markets-2",
+    "category": "articles",
+    "status": "saved_text",
+    "saved_path": "data\\raw_docs\\articles\\iea_trends_in_electric_car_markets_2025.md",
+    "final_url": "https://www.iea.org/reports/global-ev-outlook-2025/trends-in-electric-car-markets-2",
+    "content_type": "text/html; charset=utf-8",
+    "error": null
+  },
+  {
+    "filename": "iea_electric_vehicle_charging_2025",
+    "source_url": "https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-charging",
+    "category": "articles",
+    "status": "saved_text",
+    "saved_path": "data\\raw_docs\\articles\\iea_electric_vehicle_charging_2025.md",
+    "final_url": "https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-charging",
+    "content_type": "text/html; charset=utf-8",
+    "error": null
+  },
+  {
+    "filename": "acea_press_release_december_2025",
+    "source_url": "https://www.acea.auto/files/Press_release_car_registrations_December_2025.pdf",
+    "category": "pdf",
+    "status": "error",
+    "saved_path": null,
+    "final_url": null,
+    "content_type": null,
+    "error": "403 Client Error: Forbidden for url: https://www.acea.auto/files/Press_release_car_registrations_December_2025.pdf"
+  },
+  {
+    "filename": "acea_press_release_november_2025",
+    "source_url": "https://www.acea.auto/files/Press_release_car_registrations_November_2025.pdf",
+    "category": "pdf",
+    "status": "error",
+    "saved_path": null,
+    "final_url": null,
+    "content_type": null,
+    "error": "403 Client Error: Forbidden for url: https://www.acea.auto/files/Press_release_car_registrations_November_2025.pdf"
+  },
+  {
+    "filename": "deloitte_2025_global_automotive_consumer_study",
+    "source_url": "https://www.deloitte.com/ro/en/Industries/automotive/perspectives/global-automotive-consumer-study.html",
+    "category": "articles",
+    "status": "saved_text",
+    "saved_path": "data\\raw_docs\\articles\\deloitte_2025_global_automotive_consumer_study.md",
+    "final_url": "https://www.deloitte.com/ro/en/Industries/automotive/perspectives/global-automotive-consumer-study.html",
+    "content_type": "text/html;charset=utf-8",
+    "error": null
+  },
+  {
+    "filename": "new_automotive_eu_2025_forecast",
+    "source_url": "https://www.emobilityeurope.org/wp-content/uploads/2025/02/NA-E-ME-Report-EU-2025-forecast-FINAL-1.pdf",
+    "category": "pdf",
+    "status": "saved_pdf",
+    "saved_path": "data\\raw_docs\\pdf\\new_automotive_eu_2025_forecast.pdf",
+    "final_url": "https://www.emobilityeurope.org/wp-content/uploads/2025/02/NA-E-ME-Report-EU-2025-forecast-FINAL-1.pdf",
+    "content_type": "application/pdf",
+    "error": null
+  },
+  {
+    "filename": "sp_global_ev_revolution_whitepaper",
+    "source_url": "https://www.emobilityeurope.org/wp-content/uploads/2025/06/SP-Global-EVS-Whitepaper-Final.pdf",
+    "category": "pdf",
+    "status": "saved_pdf",
+    "saved_path": "data\\raw_docs\\pdf\\sp_global_ev_revolution_whitepaper.pdf",
+    "final_url": "https://www.emobilityeurope.org/wp-content/uploads/2025/06/SP-Global-EVS-Whitepaper-Final.pdf",
+    "content_type": "application/pdf",
+    "error": null
+  },
+  {
+    "filename": "eafo_accessibility_of_electric_recharging_infrastructure_guidelines",
+    "source_url": "https://alternative-fuels-observatory.ec.europa.eu/sites/default/files/document-files/2025-09/guidelines%20on%20accessibility%20of%20electric%20recharging-MI0125044ENN.pdf",
+    "category": "pdf",
+    "status": "saved_pdf",
+    "saved_path": "data\\raw_docs\\pdf\\eafo_accessibility_of_electric_recharging_infrastructure_guidelines.pdf",
+    "final_url": "https://alternative-fuels-observatory.ec.europa.eu/sites/default/files/document-files/2025-09/guidelines%20on%20accessibility%20of%20electric%20recharging-MI0125044ENN.pdf",
+    "content_type": "application/pdf",
+    "error": null
+  },
+  {
+    "filename": "eafo_homepage",
+    "source_url": "https://alternative-fuels-observatory.ec.europa.eu/homepage",
+    "category": "articles",
+    "status": "saved_text",
+    "saved_path": "data\\raw_docs\\articles\\eafo_homepage.md",
+    "final_url": "https://alternative-fuels-observatory.ec.europa.eu/",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null
+  },
+  {
+    "filename": "eafo_data_update_18_november_2025",
+    "source_url": "https://alternative-fuels-observatory.ec.europa.eu/general-information/news/eafo-data-update-18-november-2025",
+    "category": "articles",
+    "status": "saved_text",
+    "saved_path": "data\\raw_docs\\articles\\eafo_data_update_18_november_2025.md",
+    "final_url": "https://alternative-fuels-observatory.ec.europa.eu/general-information/news/eafo-data-update-18-november-2025",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null
+  },
+  {
+    "filename": "eu_alternative_fuels_infrastructure_policy",
+    "source_url": "https://transport.ec.europa.eu/transport-themes/clean-transport/alternative-fuels-sustainable-mobility-europe/alternative-fuels-infrastructure_en",
+    "category": "articles",
+    "status": "saved_text",
+    "saved_path": "data\\raw_docs\\articles\\eu_alternative_fuels_infrastructure_policy.md",
+    "final_url": "https://transport.ec.europa.eu/transport-themes/clean-transport/alternative-fuels-sustainable-mobility-europe/alternative-fuels-infrastructure_en",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null
+  },
+  {
+    "filename": "afir_policy_overview",
+    "source_url": "https://observatory.clean-hydrogen.europa.eu/eu-policy/alternative-fuels-infrastructure-regulation",
+    "category": "articles",
+    "status": "saved_text",
+    "saved_path": "data\\raw_docs\\articles\\afir_policy_overview.md",
+    "final_url": "https://observatory.clean-hydrogen.europa.eu/eu-policy/alternative-fuels-infrastructure-regulation",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null
+  },
+  {
+    "filename": "eafo_consumer_monitor",
+    "source_url": "https://alternative-fuels-observatory.ec.europa.eu/markets-and-policy/market-and-consumer-insights/consumer-monitor",
+    "category": "articles",
+    "status": "saved_text",
+    "saved_path": "data\\raw_docs\\articles\\eafo_consumer_monitor.md",
+    "final_url": "https://alternative-fuels-observatory.ec.europa.eu/markets-and-policy/market-and-consumer-insights/consumer-monitor",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null
+  },
+  {
+    "filename": "icct_european_market_monitor_dec_2025",
+    "source_url": "https://theicct.org/wp-content/uploads/2026/01/ID-547-%E2%80%93-EU-Market-Monitor-Dec-2025-market-spotlight-A4-70172-v5.pdf",
+    "category": "pdf",
+    "status": "saved_pdf",
+    "saved_path": "data\\raw_docs\\pdf\\icct_european_market_monitor_dec_2025.pdf",
+    "final_url": "https://theicct.org/wp-content/uploads/2026/01/ID-547-%E2%80%93-EU-Market-Monitor-Dec-2025-market-spotlight-A4-70172-v5.pdf",
+    "content_type": "application/pdf",
+    "error": null
+  },
+  {
+    "filename": "transport_environment_ev_progress_report_sep_2025",
+    "source_url": "https://www.transportenvironment.org/uploads/files/2025_09_EV_Progress_Report_embargoed.pdf",
+    "category": "pdf",
+    "status": "saved_pdf",
+    "saved_path": "data\\raw_docs\\pdf\\transport_environment_ev_progress_report_sep_2025.pdf",
+    "final_url": "https://uploads.transportenvironment.org/production/files/2025_09_EV_Progress_Report_embargoed.pdf",
+    "content_type": "application/pdf",
+    "error": null
+  },
+  {
+    "filename": "eea_new_registrations_of_electric_cars_in_europe_2025",
+    "source_url": "https://www.eea.europa.eu/en/analysis/indicators/new-registrations-of-electric-vehicles",
+    "category": "articles",
+    "status": "saved_text",
+    "saved_path": "data\\raw_docs\\articles\\eea_new_registrations_of_electric_cars_in_europe_2025.md",
+    "final_url": "https://www.eea.europa.eu/en/analysis/indicators/new-registrations-of-electric-vehicles",
+    "content_type": "text/html; charset=utf-8",
+    "error": null
+  },
+  {
+    "filename": "wiki_plugin_electric_vehicles_in_europe",
+    "source_url": "https://en.wikipedia.org/wiki/Plug-in_electric_vehicles_in_Europe",
+    "category": "wiki",
+    "status": "saved_text",
+    "saved_path": "data\\raw_docs\\wiki\\wiki_plugin_electric_vehicles_in_europe.md",
+    "final_url": "https://en.wikipedia.org/wiki/Plug-in_electric_vehicles_in_Europe",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null
+  }
+]
