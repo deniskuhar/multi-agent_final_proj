@@ -305,8 +305,8 @@ Covered evaluation areas:
 
 ---
 ### Screenshots
--added screenshots of **Langfuse**
--added recording of launching main.py, langfuse and tests run and result of their running
+- added screenshots of **Langfuse**
+- added recording of launching main.py, langfuse and tests run and result of their running
 
 ## Example Final Output
 
