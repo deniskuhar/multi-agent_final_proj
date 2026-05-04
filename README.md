@@ -167,6 +167,7 @@ fpr/
     chunks.pkl
     ingest_manifest.json
   output/
+  screenshots/
   tests/
     conftest.py
     _helpers.py
@@ -303,6 +304,9 @@ Covered evaluation areas:
 - **End-to-end**: final report relevance and balance
 
 ---
+### Screenshots
+-added screenshots of **Langfuse**
+-added recording of launching main.py, langfuse and tests run and result of their running
 
 ## Example Final Output
 
